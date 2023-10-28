@@ -1,4 +1,4 @@
-name: Shell commands
+run: echoo "Hello world"name: Shell commands
 on: [push]
 jobs:
   run-shell-command:
